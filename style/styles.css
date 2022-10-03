@@ -1,0 +1,12 @@
+body{
+    background-color: #8E8D89;
+}
+#topTitle{
+    color: #E85A50;
+    text-align: center;
+}
+
+#titleImage{
+  height: 75%;
+  width: 100%;
+}
